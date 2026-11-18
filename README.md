@@ -11,5 +11,5 @@ Los integrantes del equipo son:
 Exploración de ideas
 
 ## Entregas
-[00 - Exploración de ideas](docs/entregas/00_ideas.md)
+[01 - Python](docs/entregas/01_python.md)
 
